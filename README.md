@@ -4,7 +4,7 @@ A time-aware machine learning Streamlit application that predicts next-hour elec
 
 ## Live Demo
 
-- App URL: https://your-live-demo-url.streamlit.app
+- App URL: https://electric-power.onrender.com
 
 ## Video Demo
 
