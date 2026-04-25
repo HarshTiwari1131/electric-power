@@ -8,7 +8,7 @@ A time-aware machine learning Streamlit application that predicts next-hour elec
 
 ## Video Demo
 
-- Walkthrough URL: https://drive.google.com/drive/folders/1dcA5JZDJYqgL6vshr3MwkdeJmzaKaUPU?usp=drive_link
+- Walkthrough URL: https://drive.google.com/file/d/1Q4p3WjIGKq95hsq8BlBGeUyvQf-8_6Dd/view?usp=sharing
 
 ## Dataset
 
